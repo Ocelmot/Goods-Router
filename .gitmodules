@@ -1,0 +1,6 @@
+[submodule "db_connector"]
+	path = db_connector
+	url = https://github.com/Ocelmot/Goods-Router-db_connector.git
+[submodule "main"]
+	path = main
+	url = https://github.com/Ocelmot/Goods-Router-main.git
