@@ -2,5 +2,12 @@
 [workspace]
 members = [
 	"db_connector",
+	"web",
 	"main"
 ]
+
+[profile.dev]
+opt-level = 0
+
+[profile.release]
+opt-level = 3

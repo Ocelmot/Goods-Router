@@ -4,3 +4,6 @@
 [submodule "main"]
 	path = main
 	url = https://github.com/Ocelmot/Goods-Router-main.git
+[submodule "web"]
+	path = web
+	url = https://github.com/Ocelmot/Goods-Router-web.git
